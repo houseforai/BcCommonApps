@@ -1,6 +1,6 @@
-codeunit 50000 "Agent Request"
+codeunit 50001 "Agent Request"
 {
-    // Requested: Add CurrentVersion field to the Customer List in Common.
+    // Requested: Revert
     procedure Execute()
     begin
     end;
