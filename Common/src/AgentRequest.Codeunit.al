@@ -1,6 +1,6 @@
-codeunit 50001 "Agent Request"
+codeunit 50000 "Agent Request"
 {
-    // Requested: Revert
+    // Requested: Add a new integer field CustomerTestNo to the Customer List in Common.
     procedure Execute()
     begin
     end;
