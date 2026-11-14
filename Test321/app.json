@@ -1,0 +1,29 @@
+{
+  "id": "e74d6e96-c33c-48f1-a063-214f6140e9a9",
+  "name": "Test 321",
+  "publisher": "Freddy",
+  "version": "3.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "24.5.0.0",
+  "runtime": "13.0",
+  "idRanges": [
+    {
+      "from": 63001,
+      "to": 64000
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  }
+}
