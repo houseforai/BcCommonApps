@@ -14,6 +14,12 @@ pageextension 50000 CustomerListExtCommon extends "Customer List"
                 Caption = 'Test Count';
                 ToolTip = 'Specifies the test count for the customer.';
             }
+            field(TestCount2; Rec.TestCount2)
+            {
+                ApplicationArea = All;
+                Caption = 'Test Count 2';
+                ToolTip = 'Specifies the second test count for the customer.';
+            }
         }
     }
 
